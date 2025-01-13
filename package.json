@@ -1,0 +1,20 @@
+{
+  "name": "EPAM_tests",
+  "version": "1.0.0",
+  "description": "Task for Automated Testing with JavaScript Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serega1ua/tests.git"
+  },
+  "keywords": [],
+  "author": "Sergiy Novikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serega1ua/tests/issues"
+  },
+  "homepage": "https://github.com/serega1ua/tests#readme"
+}
