@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/serega1ua/tests/issues"
   },
-  "homepage": "https://github.com/serega1ua/tests#readme"
+  "homepage": "https://github.com/serega1ua/tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.6"
+  }
 }
