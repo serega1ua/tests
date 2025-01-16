@@ -10,6 +10,9 @@ jobs:
           name: Install dependencies
           command: npm install
       - run:
+          name: Install Playwright Browsers
+          command: npx playwright install  # Команда для завантаження браузерів Playwright
+      - run:
           name: Run tests
           command: npm run test:playwright
 
