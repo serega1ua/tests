@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Task for Automated Testing with JavaScript Course",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test:playwright": "npx playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/serega1ua/tests.git"
